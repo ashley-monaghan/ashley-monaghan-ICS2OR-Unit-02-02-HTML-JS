@@ -25,10 +25,9 @@ body {
   background-color: #fac34d;
 }
 
-#right-image {
+#image {
   position: absolute;
-  right: 0%;
-  margin: 10px;
+  height:20cm
 }
 
 p {
