@@ -27,7 +27,8 @@ body {
 
 #image {
   position: absolute;
-  height: 20cm;
+  width: 20px;
+  height: 20px
 }
 
 p {
